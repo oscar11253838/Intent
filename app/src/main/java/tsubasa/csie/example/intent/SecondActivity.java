@@ -22,7 +22,7 @@ public class SecondActivity extends Activity{
 
         String setText="";
 
-        if (sex.equals("M")) {
+        if (sex.equals("Male")) {
             setText="Male";
         }
         else {
